@@ -1,6 +1,6 @@
 class RemindersCli < Formula
   homepage "https://github.com/ginqi7/reminders-cli"
-  url "https://github.com/ginqi7/reminders-cli/releases/download/null/reminders.tar.gz"
+  url "https://github.com/ginqi7/reminders-cli/releases/download/v0.0.2/reminders.tar.gz"
   sha256 ""
 
   def install
