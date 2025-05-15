@@ -7,3 +7,4 @@ brew tap ginqi7/formulae
 ## formulae
 - [reminders-cli](https://github.com/ginqi7/reminders-cli)
 - [org-reminders-cli](https://github.com/ginqi7/org-reminders-cli)
+- [wechat-cli](https://github.com/ginqi7/macos-wechat-cli)
